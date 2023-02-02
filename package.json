@@ -1,5 +1,5 @@
 {
-  "name": "@garaio/pot",
+  "name": "@garaio/package-json-overview-cli",
   "version": "0.0.1",
   "description": "GARAIO - Package.json Overview Tool",
   "main": "index.js",
