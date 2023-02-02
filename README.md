@@ -1,4 +1,4 @@
-# GARAIO - Package.json Overview Tool (G-POT)
+# Package.json Overview CLI
 
 ## WIP (work in progress)
 
